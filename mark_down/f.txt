@@ -1,0 +1,1 @@
+All the markdown files are placed under this file. It is used to ease the pain of writing html code, but it is not directed linked to any project. 
